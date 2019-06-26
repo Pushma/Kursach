@@ -1,7 +1,8 @@
 package com.example.kursach;
 
-import android.arch.lifecycle.ViewModel;
 import android.content.Context;
+
+import androidx.lifecycle.ViewModel;
 
 import com.example.kursach.data.Entities.Root;
 import com.example.kursach.data.NetworkUtils;
